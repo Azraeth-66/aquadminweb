@@ -1,0 +1,17 @@
+img{
+    max-width: 100%;
+    max-height: auto;
+    
+    margin-left: 10px;
+    
+}
+.card{
+    padding: 10px;
+    max-height: 300px;
+}
+.container{
+    position: relative;
+    left: 120px;
+    
+
+}
